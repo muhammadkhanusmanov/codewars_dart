@@ -17,10 +17,10 @@ Misol uchun:
 
 Kiritilgan qator uzunligi moslab - aksarida, u bo'sh bo'lishi mumkin. Barcha kiritilganlar to'g'ri bo'ladi, ya'ni har bir kiritilgan qator faqat 'G', 'C', 'A' va / yoki 'T' dan iborat bo'ladi.
 ```
->>> Masala mohiyati: Berilgan stringdagi 'T' larni 'U' ga almashtiruvchi funksiya yaratish
 
-
-
+>>> Masala tavsifi: Berilgan stringdagi 'T' larni 'U' ga almashtiruvchi funksiya yaratish
+>>>
+>>
 
 #### Reversed Strings
 
@@ -37,7 +37,9 @@ Masalan:
 ```
 
 #### Flick Switch
+
 - [Yechim](8_kyu/task3.dart) - [Codewars Link](https://www.codewars.com/kata/64fbfe2618692c2018ebbddb)
+
 ```
 
 Berilgan ro'yxatdagi har bir element uchun doimiy ravishda True qiymatini qaytaradigan funksiya yaratamiz. Ammo, agar element "flick" so'zi bo'lsa, har doim teskari boolen qiymatini qaytarishga o'tkazamiz.
@@ -53,4 +55,7 @@ Eslatmalar:
 "flick" doimo kichik harflarda beriladi.
 Ro'yxatda bir nechta flicklar bo'lishi mumkin.
 ```
->>> Masala tavsifi: Berilgan listdagi xar bir elementlar 'True' qiymatiga o'giriladi, qachonki 'flick' kelganda o'zi va undan keyingi elementlar 'False' ga almashtriladi, keyingi 'flick' da esa elementlar 'True' ga almashtriladi va shu tartibda ishlaydi
+
+>>> Masala tavsifi: Berilgan listdagi xar bir elementlar 'True' qiymatiga o'giriladi, qachonki 'flick' kelganda o'zi va undan keyingi elementlar 'False' ga almashtriladi, keyingi 'flick' da esa elementlar 'True' ga almashtriladi va shu tartibda davom etadi..
+>>>
+>>
