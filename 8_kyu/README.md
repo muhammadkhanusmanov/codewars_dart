@@ -2,7 +2,7 @@
 
 #### DNA to RNA Conversion
 
-- [Yechim](8_kyu/task1.dart) - [Codewars Link](https://www.codewars.com/kata/5556282156230d0e5e000089)
+- [Yechim](masalalar/task1.dart) - [Codewars Link](https://www.codewars.com/kata/5556282156230d0e5e000089)
 
 ```
 Deoksiribonuklein kislota, DNA biologik tizimlarning asosiy axborot saqlash molekulasi. U to'rt nukleik kislota bazasi Guanin ('G'), Tsitozin ('C'), Adenin ('A') va Timin ('T') dan iborat.
@@ -24,7 +24,7 @@ Kiritilgan qator uzunligi moslab - aksarida, u bo'sh bo'lishi mumkin. Barcha kir
 
 #### Reversed Strings
 
-- [Yechim](8_kyu/task2.dart) - [Codewars Link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+- [Yechim](masalalar/task2.dart) - [Codewars Link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 
 ```
 Berilgan matnni teskari holda qaytaruvchi dastur tuzing.
@@ -38,7 +38,7 @@ Masalan:
 
 #### Flick Switch
 
-- [Yechim](8_kyu/task3.dart) - [Codewars Link](https://www.codewars.com/kata/64fbfe2618692c2018ebbddb)
+- [Yechim](masalalar/task3.dart) - [Codewars Link](https://www.codewars.com/kata/64fbfe2618692c2018ebbddb)
 
 ```
 
