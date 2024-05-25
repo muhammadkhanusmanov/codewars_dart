@@ -12,11 +12,12 @@
 
 - [Reversed Strings](8_kyu/task2.dart) - [Codewars Link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 
-``Berilgan matnni teskari holda qaytaruvchi dastur tuzing.``
+```
+Berilgan matnni teskari holda qaytaruvchi dastur tuzing.
 
+Masalan: 
 
-``Masalan: ``
+'world' => 'dlrow' 
 
-``'world' => 'dlrow' ``
-
-``'word' => 'drow'``
+'word' => 'drow'
+```
