@@ -1,3 +1,5 @@
+/*
+*/
 List<bool> flickSwitch(List<String> lst) {
   List<bool> result = [];
   bool a = true;
