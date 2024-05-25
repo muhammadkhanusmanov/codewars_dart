@@ -15,11 +15,7 @@
 >>> Berilgan matnni teskari holda qaytaruvchi dastur tuzing.
 >>>
 >>> Masalan:
->>>
->>>
 >>> 'world' => 'dlrow'
->>>
->>>
 >>> 'word' => 'drow'
 >>>
 >>
