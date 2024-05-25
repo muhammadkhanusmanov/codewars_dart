@@ -17,5 +17,4 @@
 >>> Masalan:
 >>> 'world' => 'dlrow'
 >>> 'word' => 'drow'
->>>
->>
+
