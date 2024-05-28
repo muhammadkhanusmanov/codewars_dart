@@ -73,3 +73,4 @@ Misol uchun, [1, 2, 2] uchun quyidagicha natija qaytarishi kerak: 9, chunki
 1² + 2² + 2² = 9.
 ```
 >>> Masala tavsifi: Berilgan ro'yxatdagi har bir sonni kvadrat ko'tarib, ularning yig'indisini qaytaradigan funksiya yarating.
+
