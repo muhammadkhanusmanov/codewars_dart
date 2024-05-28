@@ -59,3 +59,17 @@ Ro'yxatda bir nechta flicklar bo'lishi mumkin.
 >>> Masala tavsifi: Berilgan listdagi xar bir elementlar 'True' qiymatiga o'giriladi, qachonki 'flick' kelganda o'zi va undan keyingi elementlar 'False' ga almashtriladi, keyingi 'flick' da esa elementlar 'True' ga almashtriladi va shu tartibda davom etadi..
 >>>
 >>
+
+
+
+#### Square(n) Sum
+
+- [Yechim](masalalar/task4.dart) - [Codewars Link](https://www.codewars.com/kata/515e271a311df0350d00000f)
+
+```
+Kvadrat yig'indi funksiyasini yozing, shunda u berilgan har bir sonni kvadratga oshiradi va keyin natijalarning yig'indisini hisoblaydi.
+
+Misol uchun, [1, 2, 2] uchun quyidagicha natija qaytarishi kerak: 9, chunki
+1² + 2² + 2² = 9.
+```
+>>> Masala tavsifi: Berilgan ro'yxatdagi har bir sonni kvadrat ko'tarib, ularning yig'indisini qaytaradigan funksiya yarating.
