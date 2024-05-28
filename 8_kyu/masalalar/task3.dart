@@ -16,6 +16,3 @@ List<bool> flickSwitch(List<String> lst) {
 }
 
 
-void main() {
-  print(flickSwitch(['bicycle', 'jarmony', 'flick', 'sheep', 'flick']));
-}

@@ -8,6 +8,3 @@ int binaryArrayToNumber(List<int> arr) {
   return s;
 }
 
-void main() {
-  print(binaryArrayToNumber([0,1,1,0]));
-}

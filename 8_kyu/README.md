@@ -18,7 +18,7 @@ Misol uchun:
 Kiritilgan qator uzunligi moslab - aksarida, u bo'sh bo'lishi mumkin. Barcha kiritilganlar to'g'ri bo'ladi, ya'ni har bir kiritilgan qator faqat 'G', 'C', 'A' va / yoki 'T' dan iborat bo'ladi.
 ```
 
->>> Masala tavsifi: Berilgan stringdagi 'T' larni 'U' ga almashtiruvchi funksiya yaratish
+>>> Berilgan stringdagi 'T' larni 'U' ga almashtiruvchi funksiya yaratish
 >>>
 >>
 
@@ -56,11 +56,9 @@ Eslatmalar:
 Ro'yxatda bir nechta flicklar bo'lishi mumkin.
 ```
 
->>> Masala tavsifi: Berilgan listdagi xar bir elementlar 'True' qiymatiga o'giriladi, qachonki 'flick' kelganda o'zi va undan keyingi elementlar 'False' ga almashtriladi, keyingi 'flick' da esa elementlar 'True' ga almashtriladi va shu tartibda davom etadi..
+>>> Berilgan listdagi xar bir elementlar 'True' qiymatiga o'giriladi, qachonki 'flick' kelganda o'zi va undan keyingi elementlar 'False' ga almashtriladi, keyingi 'flick' da esa elementlar 'True' ga almashtriladi va shu tartibda davom etadi..
 >>>
 >>
-
-
 
 #### Square(n) Sum
 
@@ -72,5 +70,7 @@ Kvadrat yig'indi funksiyasini yozing, shunda u berilgan har bir sonni kvadratga 
 Misol uchun, [1, 2, 2] uchun quyidagicha natija qaytarishi kerak: 9, chunki
 1² + 2² + 2² = 9.
 ```
->>> Masala tavsifi: Berilgan ro'yxatdagi har bir sonni kvadrat ko'tarib, ularning yig'indisini qaytaradigan funksiya yarating.
 
+>>> Berilgan ro'yxatdagi har bir sonni kvadrat ko'tarib, ularning yig'indisini qaytaradigan funksiya yarating.
+>>>
+>>

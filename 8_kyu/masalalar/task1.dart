@@ -23,8 +23,3 @@ String rnaToDna(String dna) {
   }
   return rna;
 }
-
-// void main() {
-
-//   print(rnaToDna("CTA"));
-// }

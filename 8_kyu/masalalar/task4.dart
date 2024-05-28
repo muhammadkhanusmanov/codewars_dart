@@ -6,6 +6,3 @@ int squareSum(List<int> numbers) {
   return s;
 }
 
-void main() {
-  print((squareSum([1,2,3])));
-}
